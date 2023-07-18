@@ -1,20 +1,25 @@
 Sejarah javascript
 
 berawal dari NCSA (National Center Of Supercomputing Aplication) universiti of illinois at urbana-champaign di amerika yang meniliti
-dan membuat browser mosaic browser-1992, browser ini sangat populer saat itu, karena memiliki tag image yang bisa menampilkan gambar secara inline,
-kemudian 2 orang peneliti beserta mahasiswanya yang membuat mosaic ini membuat perusahaan sendiri yang di beri nama netscape communicator atau yang sekarang di sebut mozila
-lalu mereka membuat browser lagi yang bernama netscape navigator yang di buat dengan fitur fitur yang lebih baik dari mosaic kemudian netscape merekrut seorang bernama brendan eich
-yang di minta untuk membuat bahasa scripting yang mirip java (karena java saat itu sangat populer), kemudian dalam waktu 10 hari beliau berhasil membuat bahasa mocha
-(gabungan dari java+scheme+self) lalu di ubah menjadi livescript, habis itu netscape navigator menjadi keren saat itu sampai-sampai memiliki ambisi untuk mengalahkan microsoft.
+dan membuat browser mosaic browser-1992, browser ini sangat populer saat itu, karena memiliki tag image yang bisa menampilkan gambar
+secara inline. kemudian 2 orang peneliti beserta mahasiswanya yang membuat mosaic ini membuat perusahaan sendiri yang di beri nama
+netscape communicator atau yang sekarang di sebut mozila lalu, mereka membuat browser lagi yang bernama netscape navigator
+yang di buat dengan fitur fitur yang lebih baik dari mosaic. kemudian netscape merekrut seorang bernama brendan eich, yang
+di minta untuk membuat bahasa scripting yang mirip java (karena java saat itu sangat populer), kemudian dalam waktu 10 hari
+beliau berhasil membuat bahasa mocha(gabungan dari java+scheme+self) lalu di ubah menjadi livescript, habis itu netscape navigator
+menjadi keren saat itu sampai-sampai memiliki ambisi untuk mengalahkan microsoft.
 
 
-kemudian netscape mengajak sun microsystems(yang punya java) untuk mengalahkan microsoft, sun memiliki ide untuk memasukkan java ke dalam netscape navigator untuk menggantikan livescript,
-tetapi netscape tidak mau karena livescript lebih teroptimasi untuk web browser jadi akhirnya di putuskan untuk mengganti nama livescript menjadi javascript,supaya orang-orang mengira itu adalah java yang di gunakan untuk web browser
+kemudian netscape mengajak sun microsystems(yang punya java) untuk mengalahkan microsoft,
+sun memiliki ide untuk memasukkan java ke dalam netscape navigator untuk menggantikan livescript,
+tetapi netscape tidak mau karena livescript lebih teroptimasi untuk web browser jadi akhirnya di putuskan
+untuk mengganti nama livescript menjadi javascript,supaya orang-orang mengira itu adalah java yang di gunakan untuk web browser.
 
 
 melihat gelagat tersebut microsoft tidak mau kalah, lalu mereka melakukan reverse engineering(di contek) terhadap javascript yang di beri nama JScript,
-setelah itu giliran netscape yang panik lalu melakukan standar(di patenkan) ke ECMA international pada tahun 1996 namun lisensinya masih milik sun yaitu java jadi tidak boleh,
-jadi di carilah nama baru yaitu ecmascript tetapi orang-orang sudah terlanjur menyebutnya dengan javascript sama seperti menyebut air cleo dengan sebutan aqua.
+setelah itu giliran netscape yang panik lalu melakukan standar(di patenkan) ke ECMA international pada tahun 1996,
+namun lisensinya masih milik sun yaitu java jadi tidak boleh,jadi di carilah nama baru yaitu ecmascript,
+tetapi orang-orang sudah terlanjur menyebutnya dengan javascript sama seperti menyebut air cleo dengan sebutan aqua.
 
 
 perkembangan ecmascript/javascript setelah di standarisasi
