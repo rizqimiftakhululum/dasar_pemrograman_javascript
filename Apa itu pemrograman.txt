@@ -1,0 +1,19 @@
+Apa itu pemrograman?
+
+=> program adalah kumpulan /serangkaian instruksi yang kita berikan kepada komputer
+=> program adalah urutan instruksi terstruktur, yang dirancang agar komputer dapat berprilaku sesuai dengan ketentuan , dengan tujuan untuk menyelesaikan sebuah pekerjaan.
+
+perilaku komputer
+- komputer tidak begitu pintar
+- tapi,
+- penurut
+- tidak kenal lelah
+
+instruksi yang kita berikan kepada komputer disebut statement
+-> statement adalah perintah untuk komputer dalam bahasa pemrograman
+
+
+kesimpulan apa itu pemrograman
+-> pemrograman adalah cara kita untuk memberikan instruksi yang simpel dan terstruktur pada komputer
+-> instruksi yang kita berikan harus benar dan masuk akal
+-> instruksi yang kita berikan harus sesuai dengan aturan pada bahasa pemrograman tertentu

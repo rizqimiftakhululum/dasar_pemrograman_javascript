@@ -1,0 +1,55 @@
+Bahasa pemrograman
+
+kenapa bahasa pemrograman banyak?
+-> banyak orang yang ingin membuat bahasa sendiri seiring dengan perkembangan teknologi dan juga banyak bahasa pemrograman yang di desain khusus untuk tipe program yang spesifik
+
+bahasa yang mendekati bahasa mesin
+=> bahasa assembly / bahasa tingkat rendah(low level language)
+
+bahasa yang mendekati bahasa manusia
+=> bahasa tingkat tinggi (high level languauge) / seperti javascript,ruby,python dll
+
+
+1. bagaimana menulis source code
+   => bahasa pemrograman ditulis dengan text sederhana yang bernama plain text beda seperti ms word yang menggunakan rich text
+
+2. bagaimana source code dikonversi ke bahasa mesin
+   => compiler vs interpreter
+      1. compiler (c, c++, objective-c)
+	 - analoginya kita anggap ada 2 orang yaitu si A dan si B,
+         - si A membuat code lalu meng compile code tersebut,
+         - hasilnya akan berupa bilangan binner ,
+         - yang selanjutnya kan diberikan ke si B dalam bentuk bilangan binner yang kemudian di tampilkan ke layar.
+      2. interpreter (javascript, php)
+         - analoginya kita anggap ada 2 orang yaitu si A dan si B,
+         - si A membuat code,
+         - lalu file kodenya langsung diberikan ke si B(masih dalam bentuk source code),
+         - kemudian si B menerima kode dari si A yang kemudian si B menggunakan interpreter
+         - untuk menerjemahkan kode dari si A untuk menampilkan di layar secara real time baris per baris
+      3. hybrid (java, vb.net, python)
+         => gabungan dari compiler dan interpreter
+
+   => lebih bagus yang mana?
+      1. compiler kelebihannya => siap untuk dijalankan,lebih cepat dan source code tidak terlihat
+                  kekurangannya => tidak lintas platform, tidak fleksibel dan ada langkah tambahan
+      2. interpreter kelebihannya => lintas platform , fleksibel dan mudah untuk di uji
+                     kekurangannya => butuh interpreter(web browser), lebih lambat dan source code mudah di akses
+
+3. bagaimana mengeksekusi source code yang sudah kita buat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

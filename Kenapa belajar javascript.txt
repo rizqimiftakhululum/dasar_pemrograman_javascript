@@ -1,0 +1,40 @@
+Kenapa belajar javascript
+
+1. gratis
+2. tidak perlu instalasi
+3. hanya butuh web browser
+
+
+- javascript adalah bahasa scripting yaitu bahasa pemrograman yang tertanam di dalam program yang lebih besar
+
+- scripting tidak hanya javascript contohnya di adobe flash ada bahasa actionScript, MS office ada bahasa VBScript, Web browser ada javascript
+
+-javascript adalah bahasa yang untyped/dynamically typed
+=> untyped contohnya
+   var x = 12345; -> type data integer
+       x = "hello world!"; -> diganti type data string
+   (tidak terjadi error)
+=> typed contohnya
+   int x = 12345;
+       x = "hello world!";
+   (kode tersebut akan error)
+
+-javascript adalah bahasa pemrograman yang harus dijalankan dengan interpreted
+
+-javascript bisa apa?
+ 1. client-side web development (front end development)
+    - native javascript / vanilla javascript
+    - JQuery
+    - AgularJS, React, ember, backbone
+ 2. server-side development (back end development)
+    - nodeJS
+    - ExpressJS
+ 3. Browser extention/ Add-on
+ 4. Desktop Aplication
+    - Electron, AppJS
+ 5. Mobile App Development
+    - JQuery Mobile, Cordova/PhoneGap
+ 6. IOT $ Robotics
+    - CyclonJS, Jhonny-Five
+ 7. JSON (Javascript Object Notation) => yang digunakan pertukaran data dalam bentuk object javascript
+    
