@@ -1,7 +1,8 @@
 Bahasa pemrograman
 
 kenapa bahasa pemrograman banyak?
--> banyak orang yang ingin membuat bahasa sendiri seiring dengan perkembangan teknologi dan juga banyak bahasa pemrograman yang di desain khusus untuk tipe program yang spesifik
+-> banyak orang yang ingin membuat bahasa sendiri seiring dengan perkembangan teknologi dan juga banyak
+   bahasa pemrograman yang di desain khusus untuk tipe program yang spesifik
 
 bahasa yang mendekati bahasa mesin
 => bahasa assembly / bahasa tingkat rendah(low level language)
