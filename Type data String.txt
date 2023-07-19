@@ -1,0 +1,28 @@
+Type data String
+
+type data string dalam javascript digunakan
+untuk merepresentasikan data tekstual.
+atau data tekstual tersebut biasa disebut dengan plain text.
+
+contohnya
+"Hari ini adalah hari jum'at" //jika diawali dengan titik 2 maka diakhiri dengan titik 2 juga.
+tetapi dalam kondisi seperti di bawah tidak bisa menggunakan keduanya
+'"Gerakan pungut sampah" dilaksanakan pasa hari jum'at' //karena javascript tidak tahu (at)
+-> maka kita membutuhkan escape character \'
+'ini adalah hari jum\'at'
+
+macam-macam escape character
+\0 => karakter NULL
+\' => '
+\" => "
+\\ => \
+\n => new line/baris baru
+\t => tab
+\b => backspace
+\uxxxx => unicode, contohnya \u00A9 //untuk membentuk simbol copyright
+
+=> kita juga bisa membandibgkan 2 buah string
+   "Rizqi Miftakhul Ulum" == "rizqi miftakhul ulum"
+   // hasilnya false karena besar kecilnya huruf berpengaruh
+=> di dalam string juga terdapat fungsi .length
+   "Rizqi Miftakhul Ulum".length// 20 (jumlah karakter di dalam string)

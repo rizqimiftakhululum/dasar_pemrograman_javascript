@@ -1,0 +1,49 @@
+Nilai dan tipe data pada javascript
+
+jauh di dalam komputer kita sebenarnya cuma ada yang namanya data,
+data tersimpan ke dalam serangkaian bit,
+bit(binary digit/bilangan binner) adalah satuan terkecil dari data yang ada di dalam komputer kita,
+nilainya hanya ada 0 dan 1,
+seperti dalam mempresentasikan nilai 23 akan menjadi 10111.
+
+komputer bisa membagi potongan-potongan bit menjadi beberapa values/nilai,
+nilai-nilai tersebut memiliki peran peran yang berbeda,
+peran inilah yang biasa kita sebut tipe data.
+
+di dalam javascript tipe data di bagi beberapa macam (64 bit)
+1. number(angka)
+   di dalam javascript tidak ada integer,
+   jika kita melihat bilangan integer di javascript,
+   sebenarnya yang terjadi di dalam layar,
+   adalah bilangan pecahan,
+   namun AKURASINYA SAMPAI 15 DIGIT,
+   contohnya ketita kita mengetikkan di console 9999999999999999(9 15x),
+   hasilnya akan menjadi 10000000000000000.
+   -> kita bisa menggunakan angka desimal namun hasilnya tidak akurat,
+      contohnya 0.1 + 0.2 hasilnya akan menjadi 0.300000000000000004
+   -> kita juga bisa menggunakan eksponen,
+      contohnya 123e5 hasilnya 12300000
+   -> dan juga bilangan negatif
+2. string
+3. boolean
+4. object
+5. function
+6. undefined
+
+=> jangan pernah mengawali angka dengan 0,
+   karena kadang kadang hasilnya tidak sesuai,
+   contohnya kerika kita memasukkan angka 022,
+   maka hasilnya akan menjadi 18,
+   karena ketika kita memasukkan angka 0 di depan,
+   maka javascript akan menganggap nilangan tersebut adalah bilangan oktal.
+
+=> di dalam javascript juga terdapat angka spesial yaitu, Infinity, -Infinity, NaN.
+   1. Infinity contohnya 2/0 //Infinity
+   2. -Infinity -2/0 //-Infinity
+   3. NaN 0/0 //NaN (Not a Number),
+      100/"apel" //NaN
+
+=> tetapi hati-hati juga ketika membagi angka dengan string,
+   100/"10" //hasilnya 10,
+   karena javascript akan membaca string tersebut menjadi angka.
+   
