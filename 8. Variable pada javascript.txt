@@ -1,0 +1,37 @@
+Variable pada javascript
+
+-> variable adalah sebuah tempat/wadah yang memiliki nama,
+   yang digunakan untuk menyimpan nilai
+
+-> untuk memahami variable kita perlu memahami 3 hal ini
+   1. deklarasi
+      => mendaftarkan variable ke dalam lingkup yang sesuai
+   2. inisialisasi
+      => menyediakan memori untuk variable
+   3. assignment
+      => menetapkan nilai yang spesifik ke dalam variable
+
+-> contohnya
+   var x; // kita mendeklarasikan dan inisialisasi variable x
+   x = 20; // assignment
+
+-> dalam penulisan variable ada beberapa keyword yaitu var, let
+   dan const, yang masing-masing memiliki perilaku yang berbeda beda
+   contoh penulisan variable:
+   var ga boleh pake spasi;
+   var 1gaboleh;
+   var boleh1;
+   var ini_juga_boleh;
+   var boleh$;
+   var $_$;
+   var iniBolehBanget; //camel case
+
+-> ada beberapa keyword $ reserved word
+   (kata yang tidak boleh digunakan untuk penulisan variable)
+   break, case, catch, class, export, delete dan masih banyak lagi,
+   - di dalam penulisan variable ada yang namanya shorthand:
+     var nama = "Rizqi",
+         umur = 31,
+         ganteng = true;
+   - dan juga ada lingkup variable atau variable scope
+     

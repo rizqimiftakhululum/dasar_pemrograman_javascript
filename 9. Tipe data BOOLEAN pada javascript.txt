@@ -1,0 +1,28 @@
+Tipe data BOOLEAN pada javascript
+
+boolean adalah sebuah tipe data yang digunakan
+untuk merepresentasikan logika true atau false.
+
+-> didalam pemrograman boolean biasanya digunakan
+   pada statement pengkondisian, untuk menentukan
+   aksi yang berbeda dan mengatur alur kendali program
+
+contohnya bolean yaitu
+- var x = 10;
+  x < 20
+  true
+
+- "Rizqi" == "rizqi"
+  false
+
+- di dalam javascript ternyata semua nilai adalah boolean
+  atau biasa disebut truthy dan falsy
+  contoh truty => true, non-zero number, "string",
+                  object, arrays, functions
+  contoh falsy => false, 0, "", undefined, null, NaN
+
+               -> undefined adalah sebuah tipe yang dihasilkan
+                  ketika kita mendeklarasikan sebuah variabel,
+                  tetapi kita belum mengisikan nilainya.
+               -> null adalah nilai kosong yang bisa kita berikan
+                  kepada sebuah variabel (var x = null)
